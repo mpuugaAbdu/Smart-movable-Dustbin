@@ -1,0 +1,9 @@
+*.ino text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.stl binary
+*.docx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.gz binary

@@ -1,0 +1,22 @@
+voice module configuration platform 
+-------------------------------------
+https://voice.ai-thinker.com/
+
+
+
+
+link to the youtube video 
+-------------------------------------------
+https://youtu.be/Hfe3AVP62qg?si=XJG9nilrgrlo-J13
+
+
+
+
+
+VC-02 pins connection to atmega328p
+-------------------------------------------
+GPIO_B0 	to 	8
+
+GPIO_B1		to 	7
+
+GPIO_A27	to 	3

@@ -1,0 +1,20 @@
+# Generated and local working files
+tmp/
+*.tmp
+*.log
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arduino build output
+build/
+*.hex
+*.elf
+*.eep
+
+# Python cache used by the reproducible PDF builder
+__pycache__/
+*.py[cod]
