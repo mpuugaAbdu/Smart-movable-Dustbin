@@ -125,7 +125,7 @@ Useful next steps include fail-safe sensor handling, independent wheel control f
 
 ## Project media
 
-A demonstration link is included in [`info.txt`](info.txt). Configuration screenshots and build photographs are retained in [`images/`](images/) so the setup can be reproduced and audited.
+Watch the [YouTube demonstration video](https://youtu.be/Hfe3AVP62qg?si=XJG9nilrgrlo-J13). Configuration screenshots and build photographs are retained in [`images/`](images/) so the setup can be reproduced and audited.
 
 ## License
 
