@@ -91,6 +91,7 @@ The complete wiring table, power notes, bring-up sequence, and test checklist ar
 ```text
 .
 |-- README.md
+|-- LICENSE
 |-- robot_controller/
 |   `-- robot_controller.ino
 |-- images/
@@ -129,4 +130,4 @@ Watch the [YouTube demonstration video](https://youtu.be/Hfe3AVP62qg?si=XJG9nilr
 
 ## License
 
-No license has been selected yet. Before publishing, add a license that matches how you want others to use the code, images, report, and 3D-printable files.
+This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Mpuuga Abdu Nasser.
